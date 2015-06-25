@@ -14,6 +14,7 @@
 		908E8D941B3C33BE00A56163 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 908E8D931B3C33BE00A56163 /* Images.xcassets */; };
 		908E8D971B3C33BE00A56163 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 908E8D951B3C33BE00A56163 /* LaunchScreen.xib */; };
 		908E8DA31B3C33BE00A56163 /* TestGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 908E8DA21B3C33BE00A56163 /* TestGitTests.m */; };
+		908E8DAE1B3C46CC00A56163 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 908E8DAD1B3C46CC00A56163 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		908E8D9C1B3C33BE00A56163 /* TestGitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		908E8DA11B3C33BE00A56163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		908E8DA21B3C33BE00A56163 /* TestGitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitTests.m; sourceTree = "<group>"; };
+		908E8DAC1B3C46CC00A56163 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		908E8DAD1B3C46CC00A56163 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				908E8D931B3C33BE00A56163 /* Images.xcassets */,
 				908E8D951B3C33BE00A56163 /* LaunchScreen.xib */,
 				908E8D861B3C33BD00A56163 /* Supporting Files */,
+				908E8DAC1B3C46CC00A56163 /* Person.h */,
+				908E8DAD1B3C46CC00A56163 /* Person.m */,
 			);
 			path = TestGit;
 			sourceTree = "<group>";
@@ -221,6 +226,7 @@
 			files = (
 				908E8D8F1B3C33BD00A56163 /* ViewController.m in Sources */,
 				908E8D8C1B3C33BD00A56163 /* AppDelegate.m in Sources */,
+				908E8DAE1B3C46CC00A56163 /* Person.m in Sources */,
 				908E8D891B3C33BD00A56163 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

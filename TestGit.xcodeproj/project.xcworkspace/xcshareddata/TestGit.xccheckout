@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06838AD1-5280-4DBF-9F15-8AE6DA0E69D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1471C435E3FBFF03CAB15231E523906B844ED6A</key>
+		<string>github.com:yaohongbin2007/furry-ironman.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestGit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1471C435E3FBFF03CAB15231E523906B844ED6A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yaohongbin2007/furry-ironman.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1471C435E3FBFF03CAB15231E523906B844ED6A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1471C435E3FBFF03CAB15231E523906B844ED6A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
